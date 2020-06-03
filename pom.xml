@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.212.18:8081/repository/paytm-release/</url>
+	      <url>http://13.233.141.166:8081/repository/CMS-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.212.18:8081/repository/paytm-snapshot/</url>
+	      <url>http://13.233.141.166:8081/repository/CMS-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
